@@ -19,7 +19,8 @@ dict2.update(dict1)
 print(dict2)
 
 ## Output
-![Uploading image.png…]()
+<img width="1580" height="294" alt="image" src="https://github.com/user-attachments/assets/3dfdc3db-54e1-4eff-b2db-743e0b2d1cf8" />
+
 
 ## Result
 Thus, the program has been executed successfully.
